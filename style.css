@@ -1,0 +1,15 @@
+html,body{
+    height:100%;
+}
+.login_div{
+    background-color: brown;
+    border-radius: 20px;
+}
+#login_button{
+    width:80%;
+    border-radius: 15px;
+}
+body{
+    text-align: center;
+    background-color: blueviolet;
+}
